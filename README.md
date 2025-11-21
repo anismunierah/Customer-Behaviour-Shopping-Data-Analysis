@@ -24,7 +24,7 @@ An interactive Tableau/Power BI dashboard used to report and explore sales trend
 
 The company’s main database consists of a single comprehensive table:
 
-**Table: customer_behaviour_new** – Total records: 3900+
+**Table: customer_behaviour** – Total records: 3900+
 
 Columns include:
 
