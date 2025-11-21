@@ -14,7 +14,7 @@ As a data analyst, this project focuses on uncovering trends in demographics, pr
 * Category 3: Subscription & Repeat Purchase Behavior
 * Category 4: Discounts, Shipping, and Purchase Patterns
 
-The Python queries used to inspect and clean the data for this analysis can be found here: `[Data Cleaning](https://github.com/Python_Data_Cleaning_Script/Customer Shopping Behaviour Analysis Project.ipynb)`
+The Python queries used to inspect and clean the data for this analysis can be found here: [Data Cleaning](https://github.com/anismunierah/Customer-Behaviour-Shopping-Data-Analysis/blob/main/Python_Data_Cleaning_Script/Customer%20Shopping%20Behaviour%20Analysis%20Project.ipynb)
 Targeted SQL queries regarding various business questions can be found here: `[SQL EDA Queries Link]`
 An interactive Tableau/Power BI dashboard used to report and explore sales trends can be found here: `[Dashboard Link]`
 
